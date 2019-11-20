@@ -7,7 +7,7 @@ using System.Net;
 using System.Threading;
 using System.Windows;
 
-namespace DownloadMessen.ViewModel
+namespace Progress.ViewModel
 {
     /// <summary>
     /// This class contains properties that the main View can data bind to.

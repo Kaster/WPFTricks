@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DownloadMessen.Properties
+namespace Progress.Properties
 {
 
 
