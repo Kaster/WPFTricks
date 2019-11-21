@@ -1,4 +1,4 @@
 # WPFTricks
 Collection of different. and small WPF projects
 
-Actually focused on C#, MVVM and WPF
+Actually focused on C#, WPF and MVVM (DevExpress POCO approach)
